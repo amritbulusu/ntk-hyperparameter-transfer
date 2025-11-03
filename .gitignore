@@ -37,11 +37,11 @@ ENV/
 .ipynb_checkpoints
 
 # Results and figures
-*.png
-*.jpg
-*.pdf
-*.svg
-*.gif
+# *.png
+# *.jpg
+# *.pdf
+# *.svg
+# *.gif
 
 # Data
 *.pkl
